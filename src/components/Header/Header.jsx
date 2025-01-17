@@ -11,7 +11,7 @@ const Header = ({ cartCount, onSearch }) => {
         <ul className="header__nav-links">
           <li className="header__nav-item"><Link to="/">Inicio</Link></li>
           <li className="header__nav-item"><Link to="/Productos">Tienda On Line</Link></li>
-          <li className="header__nav-item"><Link to="/Acercade">Acerca de</Link></li>
+          
           <li className="header__nav-item"><Link to="/Contacto">Contacto</Link></li>
           <li className="header__nav-item"><Link to="/compras">Mis compras</Link></li>
           <li className="header__nav-item"><Link to="/devoluciones">Devoluciones</Link></li>
