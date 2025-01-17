@@ -1,0 +1,102 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Pantalones para Bebé",
+        "descripcion": "Playera de algodon para Bebe",
+        "precio": 95.99,
+        "categoria": "Ropa",
+        "descripcioncompleta": "Pantalon de algodon para Bebe. Disponible en varios colores y tallas.",
+        "stock": 8,
+        "imagen": "https://png.pngtree.com/png-clipart/20201208/original/pngtree-baby-pants-with-pink-plaid-bear-pattern-png-image_5571703.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Cochecito de Bebé",
+        "descripcion": "Cochecito ligero y plegable",
+        "precio": 129.99,
+        "categoria": "Muebles",
+        "descripcioncompleta": "Cochecito de Bebé con ruedas de goma y frenos de seguridad. Plegable y ligero, ideal para llevar a cualquier lugar.",
+        "stock": 20,
+        "imagen": "https://tiendasuperbebe.es/img/c/75_thumb.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Biberón",
+        "descripcion": "Biberón sin BPA con válvula anticólicos",
+        "precio": 5.99,
+        "categoria": "Accesorios",
+        "descripcioncompleta": "Biberón sin BPA con válvula anticólicos. Disponible en varios colores y tamaños.",
+        "stock": 100,
+        "imagen": "https://tiendasuperbebe.es/img/c/133_thumb.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Pañales",
+        "descripcion": "Paquete de 100 pañales ultra absorbentes",
+        "precio": 24.99,
+        "categoria": "Accesorios",
+        "stock": 200,
+        "imagen": "https://us.123rf.com/450wm/virinka/virinka1310/virinka131000104/22816356-etiqueta-con-el-beb%C3%A9.jpg?ver=6"
+    },
+    {
+        "id": 5,
+        "nombre": "Cuna para Bebé",
+        "descripcion": "Cuna convertible con altura de colchón ajustable",
+        "precio": 249.99,
+        "categoria": "Muebles",
+        "descripcioncompleta": "Cuna convertible con altura de colchón ajustable. Disponible en varios colores.",
+        "stock": 10,
+        "imagen": "https://tiendasuperbebe.es/img/c/33_thumb.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Conjunto de ropa para Bebé",
+        "descripcion": "Conjunto de Pañaleros para Bebe",
+        "precio": 289.99,
+        "categoria": "Ropa",
+        "descripcioncompleta": "Conjunto de Pañaleros para Bebe. Disponible en varios colores y tallas.",
+        "stock": 9,
+        "imagen": "https://tiendasuperbebe.es/img/c/145_thumb.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Juguetes para Bebé",
+        "descripcion": "Ruedas de juguete para Bebe",
+        "precio": 381.99,
+        "categoria": "Entretenimiento",
+        "descripcioncompleta": "Ruedas de juguete para Bebe. Disponible en varios colores y tallas.",
+        "stock": 9,
+        "imagen": "https://tiendasuperbebe.es/img/c/107_thumb.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Bañera para Bebé",
+        "descripcion": "Silla de auto para Bebe",
+        "precio": 115.55,
+        "categoria": "Muebles",
+        "descripcioncompleta": "Silla de auto para Bebe. Disponible en varios colores y tallas.",
+        "stock": 15,
+        "imagen": "https://tiendasuperbebe.es/img/c/121_thumb.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Playerita para Bebé",
+        "descripcion": "Playera de algodon para Bebe",
+        "precio": 128.78,
+        "categoria": "Ropa",
+        "descripcioncompleta": "Playera de algodon para Bebe. Disponible en varios colores y tallas.",
+        "stock": 12,
+        "imagen": "https://img.freepik.com/vector-gratis/tarjeta-bienvenida-bebe-body-nino_1020-135.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Body para Bebé",
+        "descripcion": "Body de algodón suave para recién nacidos",
+        "precio": 9.99,
+        "categoria": "Ropa",
+        "descripcioncompleta": "Body de algodón suave para recién nacidos. Disponible en varios colores y tallas.",
+        "stock": 50,
+        "imagen":  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5x4Ttr1vu0Un8jgRdmC3y8EUkJuVuFiNoRA&s"
+    }
+]

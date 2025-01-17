@@ -1,0 +1,35 @@
+.acercade {
+    padding: 120px;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.acercade__titulo {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.acercade__contenido {
+    margin-bottom: 20px;
+}
+
+.acercade__texto {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    color: #666;
+}
+
+.acercade__imagen-container {
+    text-align: center;
+}
+
+.acercade__imagen {
+    max-width: 50%;
+    height: auto;
+    border-radius: 8px;
+}
