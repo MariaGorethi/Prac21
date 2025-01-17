@@ -4,7 +4,7 @@ import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import Home from './components/Home/Home';
 import ProductDetail from './components/Productos/DetallesDeProductos';
-import Acercade from './components/Acercade/Acercade';
+
 import ListaProductos from './components/Productos/Productos';
 import Cart from './components/Cart/Cart';
 import Compras from './components/Compras/Compras';
@@ -113,7 +113,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Home onAddToCart={handleAddToCart} />} />
         <Route path="/product/:id" element={<ProductDetail onAddToCart={handleAddToCart} />} />
-        <Route path="/Acercade" element={<Acercade />} />
+       
         <Route path="/Productos" element={<ListaProductos onAddToCart={handleAddToCart} searchResults={searchResults} />} />
         <Route path="/cart" element={<Cart cartItems={cartItems} updateCartItemQuantity={updateCartItemQuantity} removeCartItem={removeCartItem} realizarCompra={realizarCompra} />} />
         <Route path="/compras" element={<Compras compras={compras} devolverProducto={devolverProducto} />} />
